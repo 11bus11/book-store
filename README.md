@@ -1,7 +1,18 @@
-# E-shop - Clothing store
+# E-shop - Book store
 
 ## UX - User Experience
 ### User Stories
+Site user:
+- See products available. Including status and options.
+- Add products to cart.
+- Search for products.
+- Navigate categories.
+- Pay for products.
+
+Admin user:
+- Add products.
+- See orders.
+- Change stock numbers.
 
 ### Colour
 
